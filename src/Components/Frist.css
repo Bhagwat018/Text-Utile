@@ -1,0 +1,10 @@
+.contener{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+    text-shadow: 4px 0px 10px white;
+    
+}
+.form-control{
+    border: 4px soild white;
+}
